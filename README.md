@@ -21,12 +21,12 @@ After installing and starting the app:
   3) Favorite meals by clicking the star button in the top-right corner of the meal details screen.
   4) Use filters to limit the displayed meals according to your preferences.
    
-# Technologies Used
+#Technologies Used
 
-  React Native
-  react context 
-  React Navigation
-  Expo
+  1) React Native
+  2) react context 
+  3) React Navigation
+  4) Expo
 
 https://github.com/user-attachments/assets/4f0d235c-2dfd-4070-9983-2da8354396b0
 
