@@ -24,9 +24,10 @@ After installing and starting the app:
 #Technologies Used
 
   1) React Native
-  2) react context 
-  3) React Navigation
-  4) Expo
+  2) react context
+  3) wide State Management with Context API
+  4) React Navigation
+  5) Expo
 
 https://github.com/user-attachments/assets/4f0d235c-2dfd-4070-9983-2da8354396b0
 
